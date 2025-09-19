@@ -37,30 +37,23 @@
 ### Featured projects
 - **OVA HAIR – Storefront**  
   Stack: Next.js, Tailwind, Vercel, Supabase.  
-  Code: `https://github.com/EricJunior1/ovahair-storefront` · Live: https://ovahair-ghana.vercel.app
 
 - **Mother’s Shea Ghana – E‑commerce**  
   Stack: MedusaJS, Postgres, Redis, Docker, Paystack/MoMo, Vercel.  
-  Code: `https://github.com/EricJunior1/mothers-shea` · Live: `https://mothers-shea.vercel.app`
+
 
 - **SMC_LS_OB_OPT – Trading Bot**  
   Stack: MQL5 + Python (backtests), OANDA/CSV ticks.  
-  Code: `https://github.com/EricJunior1/SMC_LS_OB_OPT` · Docs: add later
 
-- **Greenhouse Harvester – Concept**  
-  Stack: CAD + engineering calcs, GD&T, BOM.  
-  Code: `https://github.com/EricJunior1/greenhouse-harvester`
+
 
 ---
 
 ### Contact
-- Email: yourname@domain.com
-- LinkedIn: https://linkedin.com/in/your-handle
+- Email: erickpodo123@gmail.com
+- LinkedIn: https://gh.linkedin.com/in/eric-kpodo-7015b917a
 - Portfolio: https://EricJunior1.github.io
 
 ---
 
-#### How to use this
-1. Create a repo named **`EricJunior1/EricJunior1`** (special profile repo).
-2. Add this file as `README.md` and commit. Your profile updates instantly.
-3. Pin your best 6 repos on your profile.
+
