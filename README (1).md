@@ -17,8 +17,8 @@
 - **OVA HAIR** — wig e‑commerce (Next.js + Tailwind + Vercel).
 - **Mother’s Shea Ghana** — shea‑based skincare storefront (MedusaJS + Postgres + Paystack/MoMo).
 - **Trading Bots** — SMC Liquidity Sweep & Order Block EA (MQL5 + Python backtests).
-- **Greenhouse Tomato Harvester** — CAD + engineering calcs (GD&T, BOM, field capacity).
 
+  
 ### Tech & tools
 `TypeScript` · `Python` · `Next.js/React` · `Tailwind` · `Node.js` · `MQL5` · `Postgres` · `Supabase` · `Docker` · `Vercel` · `Redis` · `Git/GitHub`
 
