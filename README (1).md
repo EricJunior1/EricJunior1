@@ -11,7 +11,6 @@
 ### About me
 - I build e‑commerce, education tools, and trading automation with clean UX and reliable infra.
 - Current focus: **OVA HAIR** storefront, **Mother’s Shea Ghana**, and **SMC_LS_OB_OPT** trading bot.
-- Also studying for **ICAG PSA** while taking engineering courses.
 
 ### What I’m working on
 - **OVA HAIR** — wig e‑commerce (Next.js + Tailwind + Vercel).
