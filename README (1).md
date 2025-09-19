@@ -14,7 +14,7 @@
 - Also studying for **ICAG PSA** while taking engineering courses.
 
 ### What I’m working on
-- **OVA HAIR** — wig e‑commerce (Next.js + Tailwind + Vercel). Live: https://ovahair-ghana.vercel.app
+- **OVA HAIR** — wig e‑commerce (Next.js + Tailwind + Vercel).
 - **Mother’s Shea Ghana** — shea‑based skincare storefront (MedusaJS + Postgres + Paystack/MoMo).
 - **Trading Bots** — SMC Liquidity Sweep & Order Block EA (MQL5 + Python backtests).
 - **Greenhouse Tomato Harvester** — CAD + engineering calcs (GD&T, BOM, field capacity).
