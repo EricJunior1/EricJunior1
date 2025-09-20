@@ -22,10 +22,6 @@
 - Exploring **cloud-native infrastructure** and **developer tooling** to support scalable applications.  
 
   
-### Tech & tools
-`TypeScript` · `Python` · `Next.js/React` · `Tailwind` · `Node.js` · `MQL5` · `Postgres` · `Supabase` · `Docker` · `Vercel` · `Redis` · `Git/GitHub`· `HTML`· `CSS`· `Javascript` · `Node.js`
-
----
 
 ### GitHub analytics
 <p>
@@ -36,7 +32,7 @@
 > Note: Top languages reflect public code and don’t indicate skill level by themselves.
 
 ---
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Tools
 <p align="left">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
