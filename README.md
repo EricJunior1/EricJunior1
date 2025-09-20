@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <strong>Eric Kpodo</strong> 👋</h1>
-<p align="center"><em>Founder • Full‑stack Developer • Quant tinkerer • Student • Accra, Ghana</em></p>
+<p align="center"><em>Founder • Full‑stack Developer • Accra, Ghana</em></p>
 
 <p align="center">
   <a href="https://github.com/EricJunior1"><img alt="GitHub followers" src="https://img.shields.io/github/followers/EricJunior1?style=social"></a>
