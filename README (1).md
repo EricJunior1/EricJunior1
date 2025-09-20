@@ -51,8 +51,6 @@
 ### Contact
 - Email: erickpodo123@gmail.com
 - LinkedIn: https://gh.linkedin.com/in/eric-kpodo-7015b917a
-- Portfolio: https://EricJunior1.github.io
-
 ---
 
 
