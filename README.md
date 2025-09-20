@@ -2,6 +2,9 @@
 <p align="center"><em>Founder • Full‑stack Developer • Accra, Ghana</em></p>
 
 <p align="center">
+  <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=EricJunior1&label=Profile%20views&color=0e75b6&style=flat" alt="EricJunior1" /> 
+</p>
   <a href="https://github.com/EricJunior1"><img alt="GitHub followers" src="https://img.shields.io/github/followers/EricJunior1?style=social"></a>
   <a href="https://github.com/EricJunior1?tab=stars"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/EricJunior1?style=social"></a>
 </p>
