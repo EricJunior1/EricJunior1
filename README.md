@@ -11,14 +11,15 @@
 
 ---
 
-### About me
-- I build e‑commerce, education tools, and trading automation with clean UX and reliable infra.
-- Current focus: **OVA HAIR** storefront, **Mother’s Shea Ghana**, and **SMC_LS_OB_OPT** trading bot.
 
-### What I’m working on
-- **OVA HAIR** — wig e‑commerce (Next.js + Tailwind + Vercel).
-- **Mother’s Shea Ghana** — shea‑based skincare storefront (MedusaJS + Postgres + Paystack/MoMo).
-- **Trading Bots** — SMC Liquidity Sweep & Order Block EA (MQL5 + Python backtests).
+## About me
+- I build **e-commerce platforms**, **automation tools**, and **educational projects** with clean UX and reliable infrastructure.  
+- Passionate about combining **web development**, **fintech integration**, and **algorithmic trading** into impactful solutions.  
+
+## What I’m working on
+- Designing and scaling **modern e-commerce storefronts**.  
+- Building **financial and trading automation systems** with reliable backtesting.  
+- Exploring **cloud-native infrastructure** and **developer tooling** to support scalable applications.  
 
   
 ### Tech & tools
@@ -35,13 +36,36 @@
 > Note: Top languages reflect public code and don’t indicate skill level by themselves.
 
 ---
+### 🛠 Tech Stack
+<p align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 
-### Featured projects
-- **OVA HAIR – Storefront**  
-  Stack: Next.js, Tailwind, Vercel, Supabase.  
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 
-- **Mother’s Shea Ghana – E‑commerce**  
-  Stack: MedusaJS, Postgres, Redis, Docker, Paystack/MoMo, Vercel.  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
 
 
 
